@@ -1,2 +1,2 @@
 # Fitness Guide App
-briwu-fitness.netlify.app
+Visit briwu-fitness.netlify.app to view deployed app
